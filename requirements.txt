@@ -1,4 +1,9 @@
-transformers
-bert_score
+transformers==5.0.0rc0
 pandas
 numpy
+torch
+ipywidgets
+pillow
+huggingface-hub
+datasets
+dotenv

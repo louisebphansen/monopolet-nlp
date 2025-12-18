@@ -2,3 +2,4 @@ data/
 .venv/
 data.zip
 data.zip
+.env
